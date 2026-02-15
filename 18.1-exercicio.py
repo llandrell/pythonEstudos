@@ -1,7 +1,7 @@
 '''
 Docstring para 18.1-exercicio
-fazer um programa que pergunte a hora ao usuário e, basenado=se no horario descrito, 
-exiva a saudação apropriada. ex
+fazer um programa que pergunte a hora ao usuário e, basenado-se no horario descrito, 
+exija a saudação apropriada. ex
 bom dia 0:00-11:59, boa tarde 12:00-17:59 e boa noite 18:00-23:59
 
 
