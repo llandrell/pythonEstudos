@@ -18,7 +18,10 @@ print('Comentários não são interpretados pelo código.')
 """
 Docstrings (documentação de strings) não são comentários de verdade,
 mas servem para documentar blocos de código, funções, classes ou módulos.
-
+Esse bloco de três aspas é uma string multilinha.
+Quando colocado sozinho no início do código,
+ele funciona como uma documentação explicando
+o objetivo do programa.
 Diferente do comentário simples (#),
 o interpretador do Python lê a docstring e a armazena internamente.
 Ela pode ser acessada pelo comando help() ou pelo atributo __doc__.
