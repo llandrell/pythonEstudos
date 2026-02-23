@@ -3,7 +3,6 @@ faça uma lista de compras com LIST
 o user deve ter a possibilidade de inserir, apagar e lista valores da sua lista
 não permita que o programa quebre com erros de índices e enexistentes na lista.
 
-
 '''
 import os
 lista_compra = []
